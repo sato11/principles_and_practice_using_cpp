@@ -7,8 +7,8 @@ Get GCC 8 via homebrew to make full use of the latest implementation of c++.
 ```
 brew update
 brew install gcc
-ln -s /usr/local/bin/g++-8 /usr/local/bin/g++
-ln -s /usr/local/bin/gcc-8 /usr/local/bin/gcc
+ln -s /usr/local/bin/g++-9 /usr/local/bin/g++
+ln -s /usr/local/bin/gcc-9 /usr/local/bin/gcc
 ```
 
 With this done, run a super simple make task to get Mr. Stroustrup's custom header file from online by running:
